@@ -1,0 +1,9 @@
+{ "name": "moviedb",
+  "dependencies": {
+    "node.io": ">=0.5.1",
+    "request":"*",
+    "jsdom":"*",
+    "sleep":"*",
+    "util":"*"
+  }
+}

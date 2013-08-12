@@ -1,0 +1,14 @@
+{ "name": "moviedb",
+  "dependencies": {
+    "node.io": ">=0.5.1",
+    "iconv-lite": "*",
+    "bufferhelper": "*",
+    "iconv":"*",
+    "cheerio":"*",
+    "request":"*",
+    "jsdom":"*",
+    "sleep":"*",
+    "mongodb":"*",
+    "util":"*"
+  }
+}
